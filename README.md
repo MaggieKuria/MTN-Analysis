@@ -11,7 +11,8 @@ MTN Cote d'Ivoire is a leading telecommunications company  that would like to up
 * Load the required datasets
 
 ## Technologies Used
-* Python library - Import pandas as p
+* Python 3.7
+* Python library - Import pandas as pd
 
 ## Support and contact details
 In case of any issues, comments or suggestions that would help improve the analysis carried out contact me at bunnykuria4@gmail.com.
